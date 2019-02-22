@@ -1,0 +1,7 @@
+C:\Users\petko\Desktop\Blanc\bash.terminal\bash.terminal\bin\Debug\bash.terminal.exe.config
+C:\Users\petko\Desktop\Blanc\bash.terminal\bash.terminal\bin\Debug\bash.terminal.exe
+C:\Users\petko\Desktop\Blanc\bash.terminal\bash.terminal\bin\Debug\bash.terminal.pdb
+C:\Users\petko\Desktop\Blanc\bash.terminal\bash.terminal\obj\Debug\bash.terminal.csproj.CoreCompileInputs.cache
+C:\Users\petko\Desktop\Blanc\bash.terminal\bash.terminal\obj\Debug\bash.terminal.exe
+C:\Users\petko\Desktop\Blanc\bash.terminal\bash.terminal\obj\Debug\bash.terminal.pdb
+C:\Users\petko\Desktop\Blanc\bash.terminal\bash.terminal\obj\Debug\bash.terminal.csprojAssemblyReference.cache
